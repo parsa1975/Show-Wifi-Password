@@ -1,0 +1,4 @@
+show Wifi Paired
+"netsh wlan show profiles"
+show Wifi Password
+"netsh wlan show profile "Your SSID" key=clear
