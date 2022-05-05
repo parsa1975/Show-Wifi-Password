@@ -1,0 +1,2 @@
+# Show-Wifi-Password
+CMD
